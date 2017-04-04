@@ -1,0 +1,13 @@
+﻿  Building Custom Rule C:/Users/james f/Desktop/Open_CW/OpenGl/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/james f/Desktop/Open_CW/OpenGl/build/CMakeFiles/generate.stamp is up-to-date.
+cl : Command line warning D9002: ignoring unknown option '/EH;'
+cl : Command line warning D9002: ignoring unknown option '/EH-'
+cl : Command line warning D9002: ignoring unknown option '/EHt'
+cl : Command line warning D9002: ignoring unknown option '/EHd'
+cl : Command line warning D9002: ignoring unknown option '/EH='
+cl : Command line warning D9002: ignoring unknown option '/EH+'
+cl : Command line warning D9002: ignoring unknown option '/EH+'
+cl : Command line warning D9002: ignoring unknown option '/EH1'
+cl : Command line warning D9002: ignoring unknown option '/EH1'
+  stb_image.cpp
+  STB_IMAGE.vcxproj -> C:\Users\james f\Desktop\Open_CW\OpenGl\build\Debug\STB_IMAGE.lib

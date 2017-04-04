@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bChunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bDNA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\btBulletFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bChunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bDefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bDNA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\bFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\btBulletFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\james f\Downloads\bullet3-2.86.1\bullet3-2.86.1\Extras\Serialize\BulletFileLoader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D3258492-8289-3CC1-ACF3-CFE2CA60A72E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E2325219-015D-3C62-95F1-7FC9D661B55A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

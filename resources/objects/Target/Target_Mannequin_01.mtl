@@ -1,0 +1,45 @@
+# Blender MTL File: 'Target_Manniquin_01.blend'
+# Material Count: 4
+
+newmtl CrossStitch
+Ns 200.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Target_Manniquin_CrossStitch_Color.png
+map_d Target_Manniquin_CrossStitch_Color.png
+
+newmtl SackMaterial
+Ns 200.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 0.250000
+d 0.000000
+illum 2
+map_Bump Target_Manniquin_Normal_02.png
+map_Kd Target_Manniquin_Color_02.png
+map_d Target_Manniquin_Color_02.png
+
+newmtl Woodpole
+Ns 200.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd episcura_textures_wood_bark_24595_s.jpg
+
+newmtl straw
+Ns 200.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TexturesCom_Cargo0033_M.jpg
